@@ -55,6 +55,11 @@ address {
   background-color: rgb(202, 198, 192);
   padding: 0.625rem 0 0.625rem;
 }
+
+#menu ul {
+    display: flex;
+    justify-content: center;
+}
 .divfotocampanha {
   margin-top: 0.625rem;
   text-align: center;
