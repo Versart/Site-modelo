@@ -40,6 +40,8 @@ section {
 
 footer {
   margin-top: 1.25rem;
+  background-color: rgb(233, 229, 223);
+  padding: 0.9375rem;
 }
 
 address {
